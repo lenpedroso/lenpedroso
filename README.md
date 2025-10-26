@@ -3,7 +3,6 @@
 <!--
 **lenpedroso/lenpedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 ---
 
 ## 🌍 En qué me enfoco
@@ -29,7 +28,6 @@
 - 🌫️ **Red urbana de 100+ sensores de PM** — diseño de despliegue, validación y visualización.
 - 📊 **Modelos HMM para PM** — clasificación de estados de contaminación con `depmixS4`.
 - 🧪 **Calibración de sensores** — integración con estaciones de referencia, QA/QC y evaluación de sesgos.
-
 
 ---
 
