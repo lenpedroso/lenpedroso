@@ -8,7 +8,7 @@
 
 ---
 
-## 🧰 Herramientas y stack
+## 🧰 Herramientas
 - Lenguajes: **R**, **LaTeX**
 
 ---
