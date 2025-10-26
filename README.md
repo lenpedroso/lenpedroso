@@ -4,14 +4,13 @@
 - 📡 Monitoreo y análisis de **PM2.5/PM10** con sensores de bajo costo y referencia.
 - 🏙️ Diseño de **redes urbanas** de sensores (planificación, QA/QC, validación, calibración).
 - 📈 **Análisis estadístico** aplicado a calidad del aire (tendencias, estacionalidad, clustering, HMM).
-- ⚙️ **Ingeniería ambiental** y **procesos sostenibles** (data-driven).
+- ⚙️ **Ingeniería ambiental** y **procesos sostenibles**.
 
 ---
 
 ## 🧰 Herramientas y stack
 - Lenguajes: **R**, **LaTeX**
-- Paquetes/temas: `tidyverse`, `openair`, `depmixS4`, `ggplot2`, `broom`
-- Flujo: ciencia de datos reproducible, reportes en **Rmarkdown/LaTeX**, control de versiones con **Git/GitHub**.
+
 ---
 
 ## 📌 Proyectos destacados
