@@ -17,6 +17,8 @@
 - 🌫️ **Red urbana de 100+ sensores de PM** — diseño de despliegue, validación y visualización.
 - 📊 **Modelos HMM para PM** — clasificación de estados de contaminación con `depmixS4`.
 - 🧪 **Calibración de sensores** — integración con estaciones de referencia, QA/QC y evaluación de sesgos.
+- ![Sensores de bajo costo](https://tse3.mm.bing.net/th/id/OIP.EJfrg5Fi0JpGZIjGz8dt3AHaFj?pid=Api&P=0&h=180)
+
 
 ---
 
