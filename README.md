@@ -1,6 +1,6 @@
 ## Hello I am Lenna Pedroso Noris 👋
 
-## 🌍 En qué me enfoco
+## 🌍 Temática de investigación
 - 📡 Monitoreo y análisis de **PM2.5/PM10** con sensores de bajo costo y referencia.
 - 🏙️ Diseño de **redes urbanas** de sensores (planificación, QA/QC, validación, calibración).
 - 📈 **Análisis estadístico** aplicado a calidad del aire (tendencias, estacionalidad, clustering, HMM).
